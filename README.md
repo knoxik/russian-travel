@@ -4,4 +4,4 @@
 
 # Технологии: html, css
 
-# Github Pages:
+# Github Pages: https://knoxxrus.github.io/russian-travel/index.html
